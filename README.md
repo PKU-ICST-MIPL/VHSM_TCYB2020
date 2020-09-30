@@ -15,6 +15,6 @@ You can download the [SNLI] (https://drive.google.com/file/d/1CxjKsaM6YgZPRKmJhN
 
 ## Training 
 $ sh run.sh
-##Testing
+## Testing
 $ sh test.sh
 You can edit the configuration variables in the training and testing scripts to your own setting. After running these scripts, you can train the model and obtain the testing results. 
