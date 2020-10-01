@@ -1,4 +1,4 @@
-VHSM：
+VHSM：The source code will be updated in a week
 # Description
 
 This is the source code of our IEEE TCYB 2020 paper "Visual-textual Hybrid Sequence Matching for Joint Reasoning". Please cite the following paper if you use the resources.
