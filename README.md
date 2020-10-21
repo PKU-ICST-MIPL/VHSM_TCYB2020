@@ -10,7 +10,15 @@ Xin Huang, Yuxin Peng and Zhang Wen, "Visual-textual Hybrid Sequence Matching fo
 
 ## Data Preparation
 
-You can download the [SNLI] (https://drive.google.com/file/d/1CxjKsaM6YgZPRKmJhNn7WcIC3gISehcS/view?usp=sharing) dataset and [Flickr30K] images (http://shannon.cs.illinois.edu/DenotationGraph/data/index.html) used in our paper. All the data files should be unzipped and saved in directory data/ (You need to create the directory data under directory VHSM).
+You can download the 
+
+[SNLI] dataset (https://drive.google.com/file/d/1CxjKsaM6YgZPRKmJhNn7WcIC3gISehcS/view?usp=sharing)  
+
+[Flickr30K] images (http://shannon.cs.illinois.edu/DenotationGraph/data/index.html) 
+
+used in our paper. 
+
+All the data files should be unzipped and saved in directory data/ (You need to create the directory data under directory VHSM).
 
 ## Training 
 $ sh run.sh
